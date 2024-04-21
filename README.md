@@ -1,2 +1,2 @@
-# Twitch_Recsys
+# Twitch Recsys
 Creating a Twitch Recsys for DS5230 
